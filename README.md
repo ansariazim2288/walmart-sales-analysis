@@ -1,5 +1,5 @@
 # Walmart Sales Data Analysis (SQL)
-<img src="Walmart-PNG.png" width="300">
+<img src="Walmart-PNG.png" width="1000">
 An exploratory data analysis (EDA) project on Walmart sales transaction data using MySQL. The project covers database setup, feature engineering, and a series of business questions across product, sales, and customer dimensions.
 
 ## 📁 Files
